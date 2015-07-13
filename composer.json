@@ -1,7 +1,6 @@
 {
     "name": "leaffilter/libphonenumber-wrapper",
     "description": "A static wrapper class for parsing & outputting phone numbers using libphonenumber",
-    "version": "1.0.0",
     "require": {
         "php": ">=5.3.0",
         "giggsey/libphonenumber-for-php": "~7.0"
